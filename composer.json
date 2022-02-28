@@ -1,0 +1,20 @@
+{
+    "name": "mohsin/activity-calendar",
+    "description": "A Printable Activity Tracking Calendar",
+    "type": "project",
+    "require": {
+        "nesbot/carbon": "^2.57"
+    },
+    "license": "GPL-2.0-or-later",
+    "autoload": {
+        "psr-4": {
+            "Mohsin\\ActivityCalendar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Saifur Rahman Mohsin",
+            "email": "mohsin92@me.com"
+        }
+    ]
+}
